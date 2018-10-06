@@ -1,9 +1,13 @@
-*{
+* {
     margin: 0;
     padding: 0;
     background-color:#572c41;
     color: #ff9a56;
     text-align: center;
+}
+
+body {
+    font-family: "Open Sans", Arial, sans-serif;
 }
 
 .content{
@@ -18,12 +22,26 @@ h1 {
 
 a {
     color: #2b81d8;
+    text-decoration: none;
 }
 
 a:hover, a:focus{
     color: #01ffff;
 }
 
-link {
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.contributors {
+    width: 87%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 2em;
+}
+
+.contributors a:not(:last-of-type)::after {
+    content: " |";
     color: #ff9a56;
 }
