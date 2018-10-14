@@ -12,3 +12,6 @@ To join to the list of contributors you just need to do this simple steps:
 * Create a new PR
 
 Happy hacking!
+
+
+Thanks for more than 140 pull-requests :)
