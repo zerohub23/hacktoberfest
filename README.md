@@ -4,7 +4,7 @@ I created a simple website to fetch all contributors of hacktoberfest. Check it 
 # joining the list
 To join to the list of contributors you just need to do this simple steps:
 * Fork this project
-* Edit `index.html` and add you username & href to your github-profile. Please use this format:
+* Edit `index.html` and add your username & href to your github-profile. Please use this format:
 
   `<a href="https://github.com/NiklasSchmitt" target="_blank">NiklasSchmitt</a>`
 
